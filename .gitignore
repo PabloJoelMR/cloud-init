@@ -4,3 +4,4 @@ tf-cloud-init
 tf-cloud-init.pub
 instances/terraform.tfstate
 instances/terraform.tfstate.backup
+terraform.tfvars
